@@ -1,4 +1,7 @@
 ---
+genres:
+  - racing
+  - arcade
 video: https://youtu.be/7GaZXseiPoo
 post: https://unicornsugarworld.com/
 # See github.com/js13kGames/hello-world for supported frontmatter
